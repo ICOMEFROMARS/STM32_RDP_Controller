@@ -3,5 +3,5 @@
 Kullanım:
 * JSON ve py dosyaları projede .hex'in olduğu klasöre atılır. (örnek hex yolu -> D:/workspace/stm/rdp_project/CM7/Debug)
 * JSON içindeki path'ler ve istenen RDP değeri uygun şekilde değiştirilir.
-* script çalıştırılır.
+* Script çalıştırılır.
 * RDP durumu "D:\STMPROG\bin\STM32_Programmer_CLI.exe -c port=SWD -ob displ" komutu ile kontrol edilebilir.
